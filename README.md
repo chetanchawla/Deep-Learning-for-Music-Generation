@@ -8,3 +8,5 @@ Corresponding to each experiment number in the Results.doc is the generated ABC 
 The experiment has been done by using different layers of unrollability of LSTMs as well as with different stacking of LSTMs.
 
 The code took help from many open sourced projects and research papers. 
+
+## For a detailed report on the topic with the architecture used, put a request on chchawla@yahoo.co.in
